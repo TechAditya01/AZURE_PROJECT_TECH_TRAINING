@@ -1,6 +1,6 @@
 # COMPLAINT SYSTEM FOR COLLEGE STUDENTS
 
-This project is a Minimum Viable Product (MVP) for accepting complaint from students descriptions using python flask framework and the Azure.
+This project is a web-app based project for accepting complaint from students descriptions using python flask framework and the Azure.
 
 ## Features
 
