@@ -1,4 +1,4 @@
-# COMPLAINT SYSTEM FOR COLLEGE STUDENTS
+# COMPLAINT GENERATOR WEB-APP FOR COLLEGE STUDENTS
 
 This project is a web-app based project for accepting complaint from students descriptions using python flask framework and the Azure.
 
