@@ -5,7 +5,7 @@ This project is a web-app based project for accepting complaint from students de
 ## Features
 
 * **USER-FRIENDLY:**  Users can describe everything in plain English.
-* **Solidity Code Generation:** The application uses the Azure services to keep web-app updated based on the as per go rule!  
+* **Complaint Generator:** The application uses the Azure services to keep web-app updated based on the as per go rule!  
 * **Error Handling:** Basic error handling for invalid requests and spam protection
 
 ## Getting Started
